@@ -8,4 +8,4 @@
 | ------ | ------ | ------ |
 | Repository | https:://www.naver.com |
 | iMBK 머신러닝 프로젝트 | https::// google.com |
-| 깃허브링크프로젝트 | https:://www.github.com/cwj7545 } 
+| 깃허브링크프로젝트 | https:://www.github.com/cwj7545-dotcom } 
